@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 I'm
-UI Developer
+UI Developer.
 The crossover between design and programming has always been of interest to me.I have a wide range of skills that include back-end development using open source technologies (Python), front-end development (React, ReactJs, HTML5, CSS3, Javascript,).
 
 
